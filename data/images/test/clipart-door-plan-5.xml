@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>test</folder>
 	<filename>clipart-door-plan-5.jpg</filename>
-	<path>C:\Users\MURUGAS\Desktop\door\train\clipart-door-plan-5.jpg</path>
+	<path>C:\Users\MURUGAS\Desktop\blueprint\project\object_detection_demo\data\images\test\clipart-door-plan-5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>74</xmin>
-			<ymin>19</ymin>
-			<xmax>182</xmax>
-			<ymax>143</ymax>
+			<xmin>302</xmin>
+			<ymin>152</ymin>
+			<xmax>410</xmax>
+			<ymax>276</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
-	<folder>train</folder>
+	<folder>test</folder>
 	<filename>door-model.jpg</filename>
-	<path>C:\Users\MURUGAS\Desktop\door\train\door-model.jpg</path>
+	<path>C:\Users\MURUGAS\Desktop\blueprint\project\object_detection_demo\data\images\test\door-model.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>150</width>
-		<height>75</height>
+		<width>534</width>
+		<height>271</height>
 		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>41</xmin>
-			<ymin>3</ymin>
-			<xmax>98</xmax>
-			<ymax>66</ymax>
+			<xmin>196</xmin>
+			<ymin>98</ymin>
+			<xmax>253</xmax>
+			<ymax>161</ymax>
 		</bndbox>
 	</object>
 </annotation>
