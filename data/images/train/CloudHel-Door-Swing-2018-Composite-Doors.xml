@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>Architectural_plan,_door1.jpg</filename>
-	<path>C:\Users\MURUGAS\Desktop\door\train\Architectural_plan,_door1.jpg</path>
+	<filename>CloudHel-Door-Swing-2018-Composite-Doors.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\door\train\CloudHel-Door-Swing-2018-Composite-Doors.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>27</xmin>
-			<ymin>4</ymin>
-			<xmax>195</xmax>
-			<ymax>157</ymax>
+			<xmin>71</xmin>
+			<ymin>20</ymin>
+			<xmax>171</xmax>
+			<ymax>137</ymax>
 		</bndbox>
 	</object>
 </annotation>

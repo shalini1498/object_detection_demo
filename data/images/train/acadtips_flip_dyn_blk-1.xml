@@ -1,14 +1,14 @@
 <annotation>
 	<folder>train</folder>
-	<filename>Architectural_plan,_door1.jpg</filename>
-	<path>C:\Users\MURUGAS\Desktop\door\train\Architectural_plan,_door1.jpg</path>
+	<filename>acadtips_flip_dyn_blk-1.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\door\train\acadtips_flip_dyn_blk-1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
-		<depth>3</depth>
+		<width>249</width>
+		<height>236</height>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>27</xmin>
-			<ymin>4</ymin>
-			<xmax>195</xmax>
-			<ymax>157</ymax>
+			<xmin>32</xmin>
+			<ymin>17</ymin>
+			<xmax>227</xmax>
+			<ymax>204</ymax>
 		</bndbox>
 	</object>
 </annotation>
