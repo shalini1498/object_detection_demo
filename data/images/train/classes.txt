@@ -1,3 +1,0 @@
-door
-wall
-window
