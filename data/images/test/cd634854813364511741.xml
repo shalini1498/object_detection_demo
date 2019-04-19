@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
-	<filename>15112012064121.jpg</filename>
-	<path>C:\Users\MURUGAS\Desktop\rooms\1\train\15112012064121.jpg</path>
+	<filename>cd634854813364511741.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\rooms\1\train\cd634854813364511741.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1870</width>
-		<height>1215</height>
+		<width>2030</width>
+		<height>2335</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1565</xmin>
-			<ymin>427</ymin>
-			<xmax>1840</xmax>
-			<ymax>737</ymax>
+			<xmin>1291</xmin>
+			<ymin>287</ymin>
+			<xmax>1799</xmax>
+			<ymax>676</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>34</xmin>
-			<ymin>452</ymin>
-			<xmax>232</xmax>
-			<ymax>806</ymax>
+			<xmin>381</xmin>
+			<ymin>2026</ymin>
+			<xmax>949</xmax>
+			<ymax>2273</ymax>
 		</bndbox>
 	</object>
 </annotation>

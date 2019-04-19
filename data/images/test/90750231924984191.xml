@@ -1,38 +1,38 @@
 <annotation>
 	<folder>train</folder>
-	<filename>15112012064121.jpg</filename>
-	<path>C:\Users\MURUGAS\Desktop\rooms\1\train\15112012064121.jpg</path>
+	<filename>90750231924984191.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\rooms\1\train\90750231924984191.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1870</width>
-		<height>1215</height>
+		<width>1400</width>
+		<height>951</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>securityroom</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1565</xmin>
-			<ymin>427</ymin>
-			<xmax>1840</xmax>
-			<ymax>737</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>balcony</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>34</xmin>
-			<ymin>452</ymin>
-			<xmax>232</xmax>
-			<ymax>806</ymax>
+			<xmin>782</xmin>
+			<ymin>147</ymin>
+			<xmax>967</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>securityroom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>669</ymin>
+			<xmax>481</xmax>
+			<ymax>908</ymax>
 		</bndbox>
 	</object>
 </annotation>
