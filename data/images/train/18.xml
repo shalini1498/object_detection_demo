@@ -1,38 +1,38 @@
 <annotation>
 	<folder>train</folder>
-	<filename>17.jpg</filename>
-	<path>C:\Users\MURUGAS\Desktop\rooms\1\train\17.jpg</path>
+	<filename>18.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\rooms\1\train\18.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1000</width>
-		<height>1416</height>
+		<width>1103</width>
+		<height>1605</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>balcony</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>305</xmin>
-			<ymin>267</ymin>
-			<xmax>646</xmax>
-			<ymax>421</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>securityroom</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>713</xmin>
-			<ymin>447</ymin>
-			<xmax>961</xmax>
-			<ymax>700</ymax>
+			<xmin>510</xmin>
+			<ymin>1199</ymin>
+			<xmax>847</xmax>
+			<ymax>1561</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>balcony</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>44</ymin>
+			<xmax>955</xmax>
+			<ymax>251</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>55</xmin>
-			<ymin>254</ymin>
-			<xmax>296</xmax>
-			<ymax>995</ymax>
+			<xmin>67</xmin>
+			<ymin>239</ymin>
+			<xmax>962</xmax>
+			<ymax>744</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>333</xmin>
-			<ymin>713</ymin>
-			<xmax>722</xmax>
-			<ymax>945</ymax>
+			<xmin>272</xmin>
+			<ymin>616</ymin>
+			<xmax>600</xmax>
+			<ymax>1201</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>727</xmin>
+			<ymin>761</ymin>
+			<xmax>1095</xmax>
+			<ymax>1254</ymax>
 		</bndbox>
 	</object>
 </annotation>
