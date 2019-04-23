@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>restroom</name>
+		<name>room</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -276,18 +276,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>restroom</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>358</xmin>
-			<ymin>679</ymin>
-			<xmax>564</xmax>
-			<ymax>821</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>room</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
@@ -297,6 +285,18 @@
 			<ymin>815</ymin>
 			<xmax>564</xmax>
 			<ymax>986</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>675</ymin>
+			<xmax>564</xmax>
+			<ymax>822</ymax>
 		</bndbox>
 	</object>
 </annotation>

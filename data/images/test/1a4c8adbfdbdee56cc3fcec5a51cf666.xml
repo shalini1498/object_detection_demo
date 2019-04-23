@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>1a4c8adbfdbdee56cc3fcec5a51cf666.jpg</filename>
-	<path>C:\Users\ArunOnedata\Desktop\windows_v1.8.0\All\5th_set_New\train\1a4c8adbfdbdee56cc3fcec5a51cf666.jpg</path>
+	<path>C:\Users\ArunKumar.DESKTOP-0868E7L\Desktop\Labellmg.exe\train\1a4c8adbfdbdee56cc3fcec5a51cf666.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -129,6 +129,18 @@
 			<ymin>440</ymin>
 			<xmax>392</xmax>
 			<ymax>461</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>181</ymin>
+			<xmax>368</xmax>
+			<ymax>350</ymax>
 		</bndbox>
 	</object>
 </annotation>
