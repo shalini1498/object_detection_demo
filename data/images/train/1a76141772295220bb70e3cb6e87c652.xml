@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>1a76141772295220bb70e3cb6e87c652.jpg</filename>
-	<path>C:\Users\ArunOnedata\Desktop\windows_v1.8.0\All\5th_set_New\train\1a76141772295220bb70e3cb6e87c652.jpg</path>
+	<path>C:\Users\ArunKumar.DESKTOP-0868E7L\Desktop\Labellmg.exe\train\1a76141772295220bb70e3cb6e87c652.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -225,6 +225,78 @@
 			<ymin>265</ymin>
 			<xmax>162</xmax>
 			<ymax>299</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>368</ymin>
+			<xmax>165</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>299</ymin>
+			<xmax>347</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>153</ymin>
+			<xmax>163</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>13</ymin>
+			<xmax>346</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>299</ymin>
+			<xmax>515</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>581</ymin>
+			<xmax>214</xmax>
+			<ymax>701</ymax>
 		</bndbox>
 	</object>
 </annotation>
