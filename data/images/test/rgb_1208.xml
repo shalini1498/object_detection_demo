@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>rgb_1208.png</filename>
-	<path>C:\Users\ArunOnedata\Desktop\All\1st_Set\1st-set\train\rgb_1208.png</path>
+	<path>C:\Users\ArunOnedata\Desktop\windows_v1.8.0\train\rgb_1208.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>187</xmin>
-			<ymin>392</ymin>
-			<xmax>259</xmax>
-			<ymax>428</ymax>
+			<xmin>169</xmin>
+			<ymin>404</ymin>
+			<xmax>280</xmax>
+			<ymax>439</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>500</xmin>
-			<ymin>392</ymin>
-			<xmax>606</xmax>
-			<ymax>430</ymax>
+			<xmin>489</xmin>
+			<ymin>405</ymin>
+			<xmax>617</xmax>
+			<ymax>436</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>859</xmin>
-			<ymin>392</ymin>
-			<xmax>1003</xmax>
-			<ymax>430</ymax>
+			<xmin>845</xmin>
+			<ymin>386</ymin>
+			<xmax>1025</xmax>
+			<ymax>439</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>501</xmin>
-			<ymin>1473</ymin>
-			<xmax>605</xmax>
-			<ymax>1517</ymax>
+			<xmin>480</xmin>
+			<ymin>1465</ymin>
+			<xmax>624</xmax>
+			<ymax>1523</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -69,30 +69,6 @@
 			<ymin>783</ymin>
 			<xmax>310</xmax>
 			<ymax>896</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>window</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1106</xmin>
-			<ymin>513</ymin>
-			<xmax>1146</xmax>
-			<ymax>651</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>wall</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>264</xmin>
-			<ymin>972</ymin>
-			<xmax>291</xmax>
-			<ymax>1513</ymax>
 		</bndbox>
 	</object>
 </annotation>

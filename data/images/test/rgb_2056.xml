@@ -1,7 +1,7 @@
 <annotation>
-	<folder>tr</folder>
+	<folder>train</folder>
 	<filename>rgb_2056.png</filename>
-	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\tr\rgb_2056.png</path>
+	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\2set\train\rgb_2056.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -189,6 +189,30 @@
 			<ymin>1122</ymin>
 			<xmax>1131</xmax>
 			<ymax>1143</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>439</ymin>
+			<xmax>88</xmax>
+			<ymax>1406</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>263</ymin>
+			<xmax>1084</xmax>
+			<ymax>360</ymax>
 		</bndbox>
 	</object>
 </annotation>
