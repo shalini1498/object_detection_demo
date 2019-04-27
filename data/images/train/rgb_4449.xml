@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>Train1</folder>
 	<filename>rgb_4449.png</filename>
-	<path>C:\Users\ArunOnedata\Desktop\All\1st_Set\1st-set\train\rgb_4449.png</path>
+	<path>C:\Users\ArunOnedata\Desktop\windows_v1.8.0\Train1\rgb_4449.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>898</xmin>
-			<ymin>296</ymin>
-			<xmax>1008</xmax>
-			<ymax>310</ymax>
+			<xmin>894</xmin>
+			<ymin>293</ymin>
+			<xmax>1013</xmax>
+			<ymax>311</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,9 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1069</xmin>
-			<ymin>297</ymin>
-			<xmax>1125</xmax>
+			<xmin>1068</xmin>
+			<ymin>296</ymin>
+			<xmax>1129</xmax>
 			<ymax>310</ymax>
 		</bndbox>
 	</object>

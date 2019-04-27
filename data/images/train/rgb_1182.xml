@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>rgb_1182.png</filename>
-	<path>C:\Users\ArunOnedata\Desktop\All\1st_Set\1st-set\train\rgb_1182.png</path>
+	<path>C:\Users\ArunOnedata\Desktop\windows_v1.8.0\train\rgb_1182.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>597</xmin>
-			<ymin>125</ymin>
-			<xmax>770</xmax>
-			<ymax>157</ymax>
+			<xmin>592</xmin>
+			<ymin>118</ymin>
+			<xmax>792</xmax>
+			<ymax>172</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>924</xmin>
-			<ymin>521</ymin>
-			<xmax>1095</xmax>
-			<ymax>557</ymax>
+			<xmin>914</xmin>
+			<ymin>526</ymin>
+			<xmax>1110</xmax>
+			<ymax>567</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>409</xmin>
-			<ymin>340</ymin>
-			<xmax>491</xmax>
-			<ymax>424</ymax>
+			<xmin>407</xmin>
+			<ymin>345</ymin>
+			<xmax>524</xmax>
+			<ymax>429</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>409</xmin>
+			<xmin>411</xmin>
 			<ymin>455</ymin>
-			<xmax>492</xmax>
-			<ymax>541</ymax>
+			<xmax>525</xmax>
+			<ymax>550</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>626</xmin>
-			<ymin>741</ymin>
-			<xmax>716</xmax>
-			<ymax>838</ymax>
+			<xmin>623</xmin>
+			<ymin>740</ymin>
+			<xmax>748</xmax>
+			<ymax>841</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>637</xmin>
-			<ymin>923</ymin>
-			<xmax>729</xmax>
-			<ymax>1026</ymax>
+			<xmin>636</xmin>
+			<ymin>914</ymin>
+			<xmax>757</xmax>
+			<ymax>1044</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +113,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>470</xmin>
-			<ymin>1546</ymin>
-			<xmax>507</xmax>
-			<ymax>2027</ymax>
+			<xmin>452</xmin>
+			<ymin>1527</ymin>
+			<xmax>528</xmax>
+			<ymax>2053</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -125,10 +125,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>870</xmin>
-			<ymin>1292</ymin>
-			<xmax>902</xmax>
-			<ymax>2027</ymax>
+			<xmin>863</xmin>
+			<ymin>1285</ymin>
+			<xmax>911</xmax>
+			<ymax>2050</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -137,10 +137,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1588</xmin>
-			<ymin>528</ymin>
-			<xmax>1619</xmax>
-			<ymax>760</ymax>
+			<xmin>1570</xmin>
+			<ymin>519</ymin>
+			<xmax>1622</xmax>
+			<ymax>747</ymax>
 		</bndbox>
 	</object>
 </annotation>

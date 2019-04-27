@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>Train</folder>
 	<filename>rgb_4242.png</filename>
-	<path>C:\Users\ArunOnedata\Desktop\All\1st_Set\1st-set\train\rgb_4242.png</path>
+	<path>C:\Users\ArunKumar.DESKTOP-0868E7L\Desktop\Labellmg.exe\Train\rgb_4242.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -50,13 +50,13 @@
 	<object>
 		<name>window</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>375</xmin>
-			<ymin>964</ymin>
-			<xmax>424</xmax>
-			<ymax>983</ymax>
+			<xmin>371</xmin>
+			<ymin>959</ymin>
+			<xmax>425</xmax>
+			<ymax>990</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>457</xmin>
-			<ymin>964</ymin>
-			<xmax>491</xmax>
-			<ymax>982</ymax>
+			<xmin>445</xmin>
+			<ymin>958</ymin>
+			<xmax>499</xmax>
+			<ymax>989</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>622</xmin>
-			<ymin>956</ymin>
-			<xmax>681</xmax>
-			<ymax>982</ymax>
+			<xmin>612</xmin>
+			<ymin>952</ymin>
+			<xmax>693</xmax>
+			<ymax>984</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +113,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>554</xmin>
-			<ymin>737</ymin>
-			<xmax>597</xmax>
-			<ymax>786</ymax>
+			<xmin>545</xmin>
+			<ymin>729</ymin>
+			<xmax>608</xmax>
+			<ymax>793</ymax>
 		</bndbox>
 	</object>
 	<object>
