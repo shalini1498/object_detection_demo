@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>5779.png</filename>
-	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\train\5779.png</path>
+	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\after\train\5779.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>411</xmin>
-			<ymin>488</ymin>
-			<xmax>483</xmax>
-			<ymax>577</ymax>
+			<ymin>490</ymin>
+			<xmax>480</xmax>
+			<ymax>542</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>469</xmin>
-			<ymin>586</ymin>
-			<xmax>520</xmax>
-			<ymax>660</ymax>
+			<xmin>468</xmin>
+			<ymin>623</ymin>
+			<xmax>519</xmax>
+			<ymax>661</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>565</xmin>
-			<ymin>597</ymin>
-			<xmax>628</xmax>
-			<ymax>673</ymax>
+			<xmin>572</xmin>
+			<ymin>621</ymin>
+			<xmax>624</xmax>
+			<ymax>674</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>785</xmin>
-			<ymin>603</ymin>
-			<xmax>854</xmax>
+			<xmin>794</xmin>
+			<ymin>621</ymin>
+			<xmax>858</xmax>
 			<ymax>669</ymax>
 		</bndbox>
 	</object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>943</xmin>
-			<ymin>558</ymin>
-			<xmax>1019</xmax>
-			<ymax>608</ymax>
+			<xmin>936</xmin>
+			<ymin>459</ymin>
+			<xmax>986</xmax>
+			<ymax>510</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>298</xmin>
+			<xmin>304</xmin>
 			<ymin>780</ymin>
-			<xmax>387</xmax>
-			<ymax>806</ymax>
+			<xmax>369</xmax>
+			<ymax>803</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,22 +89,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>559</xmin>
-			<ymin>778</ymin>
-			<xmax>650</xmax>
+			<xmin>569</xmin>
+			<ymin>782</ymin>
+			<xmax>636</xmax>
+			<ymax>803</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>window</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>803</xmin>
+			<ymin>779</ymin>
+			<xmax>867</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>window</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>980</xmin>
+			<ymin>780</ymin>
+			<xmax>1045</xmax>
 			<ymax>810</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>window</name>
+		<name>door</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>798</xmin>
-			<ymin>777</ymin>
-			<xmax>880</xmax>
-			<ymax>812</ymax>
+			<xmin>857</xmin>
+			<ymin>509</ymin>
+			<xmax>892</xmax>
+			<ymax>547</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +137,154 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>963</xmin>
-			<ymin>775</ymin>
-			<xmax>1067</xmax>
-			<ymax>810</ymax>
+			<xmin>1206</xmin>
+			<ymin>662</ymin>
+			<xmax>1229</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1047</xmin>
+			<ymin>788</ymin>
+			<xmax>1216</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>867</xmin>
+			<ymin>790</ymin>
+			<xmax>980</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>789</ymin>
+			<xmax>482</xmax>
+			<ymax>796</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>624</xmin>
+			<ymin>368</ymin>
+			<xmax>826</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>636</xmin>
+			<ymin>788</ymin>
+			<xmax>802</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1213</xmin>
+			<ymin>410</ymin>
+			<xmax>1222</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1035</xmin>
+			<ymin>408</ymin>
+			<xmax>1220</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>825</xmin>
+			<ymin>407</ymin>
+			<xmax>929</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>923</xmin>
+			<ymin>512</ymin>
+			<xmax>930</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>925</xmin>
+			<ymin>547</ymin>
+			<xmax>998</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1035</xmin>
+			<ymin>468</ymin>
+			<xmax>1042</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>370</ymin>
+			<xmax>237</xmax>
+			<ymax>747</ymax>
 		</bndbox>
 	</object>
 </annotation>

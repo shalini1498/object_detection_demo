@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>5738.png</filename>
-	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\train\5738.png</path>
+	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\after\train\5738.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,34 +17,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+			<xmin>820</xmin>
+			<ymin>1054</ymin>
+			<xmax>876</xmax>
+			<ymax>1107</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>828</xmin>
+			<ymin>769</ymin>
+			<xmax>872</xmax>
+			<ymax>814</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
 			<xmin>817</xmin>
-			<ymin>1030</ymin>
-			<xmax>878</xmax>
-			<ymax>1109</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>door</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>821</xmin>
-			<ymin>749</ymin>
-			<xmax>875</xmax>
-			<ymax>820</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>door</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>797</xmin>
-			<ymin>434</ymin>
-			<xmax>859</xmax>
-			<ymax>493</ymax>
+			<ymin>436</ymin>
+			<xmax>860</xmax>
+			<ymax>487</ymax>
 		</bndbox>
 	</object>
 </annotation>
