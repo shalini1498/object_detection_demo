@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>111.png</filename>
-	<path>C:\Users\ArunKumar.DESKTOP-0868E7L\Desktop\Labellmg.exe\train\111.png</path>
+	<path>C:\Users\ArunOnedata\Desktop\All\2nd_Set\2nd_set\train\111.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -201,6 +201,42 @@
 			<ymin>122</ymin>
 			<xmax>673</xmax>
 			<ymax>238</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>722</xmin>
+			<ymin>85</ymin>
+			<xmax>853</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>803</xmin>
+			<ymin>379</ymin>
+			<xmax>899</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>894</xmin>
+			<ymin>329</ymin>
+			<xmax>1016</xmax>
+			<ymax>463</ymax>
 		</bndbox>
 	</object>
 </annotation>

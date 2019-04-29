@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>1493.png</filename>
-	<path>C:\Users\ArunOnedata\Desktop\windows_v1.8.0\train\1493.png</path>
+	<path>C:\Users\ArunKumar.DESKTOP-0868E7L\Desktop\All\2nd_Set\2nd_set\train\1493.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -357,6 +357,54 @@
 			<ymin>144</ymin>
 			<xmax>320</xmax>
 			<ymax>308</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>527</ymin>
+			<xmax>766</xmax>
+			<ymax>697</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>755</xmin>
+			<ymin>466</ymin>
+			<xmax>965</xmax>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>698</xmin>
+			<ymin>284</ymin>
+			<xmax>863</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>560</xmin>
+			<ymin>283</ymin>
+			<xmax>703</xmax>
+			<ymax>480</ymax>
 		</bndbox>
 	</object>
 </annotation>
