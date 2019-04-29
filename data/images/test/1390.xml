@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>1390.png</filename>
-	<path>C:\Users\ArunOnedata\Desktop\windows_v1.8.0\train\1390.png</path>
+	<path>C:\Users\ArunKumar.DESKTOP-0868E7L\Desktop\All\2nd_Set\2nd_set\train\1390.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -213,6 +213,42 @@
 			<ymin>672</ymin>
 			<xmax>1422</xmax>
 			<ymax>693</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>982</xmin>
+			<ymin>88</ymin>
+			<xmax>1563</xmax>
+			<ymax>696</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>981</xmin>
+			<ymin>1405</ymin>
+			<xmax>1397</xmax>
+			<ymax>1719</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1373</xmin>
+			<ymin>1402</ymin>
+			<xmax>1565</xmax>
+			<ymax>1719</ymax>
 		</bndbox>
 	</object>
 </annotation>

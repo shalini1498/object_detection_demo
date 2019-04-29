@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Train</folder>
+	<folder>train</folder>
 	<filename>1029.png</filename>
-	<path>C:\Users\ArunOnedata\Desktop\windows_v1.8.0\Train\1029.png</path>
+	<path>C:\Users\ArunKumar.DESKTOP-0868E7L\Desktop\All\2nd_Set\2nd_set\train\1029.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -113,10 +113,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>418</xmin>
-			<ymin>564</ymin>
-			<xmax>460</xmax>
-			<ymax>1059</ymax>
+			<xmin>416</xmin>
+			<ymin>568</ymin>
+			<xmax>458</xmax>
+			<ymax>1063</ymax>
 		</bndbox>
 	</object>
 	<object>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>148.png</filename>
-	<path>C:\Users\ArunOnedata\Desktop\windows_v1.8.0\train\148.png</path>
+	<path>C:\Users\ArunKumar.DESKTOP-0868E7L\Desktop\All\2nd_Set\2nd_set\train\148.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -225,6 +225,42 @@
 			<ymin>186</ymin>
 			<xmax>783</xmax>
 			<ymax>200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rd</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>657</ymin>
+			<xmax>1024</xmax>
+			<ymax>819</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>md</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>16</ymin>
+			<xmax>807</xmax>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>848</xmin>
+			<ymin>525</ymin>
+			<xmax>993</xmax>
+			<ymax>652</ymax>
 		</bndbox>
 	</object>
 </annotation>
