@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>000526 - Copy.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\ggg\Floorplan_img_03\rename\train\000526 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1100</width>
+		<height>719</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>window</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>278</ymin>
+			<xmax>135</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>window</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>224</ymin>
+			<xmax>417</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>window</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>118</ymin>
+			<xmax>441</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>
