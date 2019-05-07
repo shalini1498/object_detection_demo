@@ -1,0 +1,38 @@
+<annotation>
+	<folder>door images</folder>
+	<filename>gd-0021.png</filename>
+	<path>C:\Users\MURUGAS\Desktop\blueprint\door images\gd-0021.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2003</width>
+		<height>3727</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>590</ymin>
+			<xmax>521</xmax>
+			<ymax>960</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>1043</ymin>
+			<xmax>727</xmax>
+			<ymax>1202</ymax>
+		</bndbox>
+	</object>
+</annotation>
