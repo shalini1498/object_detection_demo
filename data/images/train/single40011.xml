@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>images</folder>
 	<filename>single40011.jpg</filename>
-	<path>C:\Users\ArunOnedata\Desktop\All\190_Images_arun\windows\train\single40011.jpg</path>
+	<path>C:\Users\ArunOnedata\Desktop\All\190_Images_arun\windows\train\images\single40011.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>117</xmin>
-			<ymin>949</ymin>
-			<xmax>138</xmax>
-			<ymax>1300</ymax>
+			<xmin>180</xmin>
+			<ymin>571</ymin>
+			<xmax>316</xmax>
+			<ymax>598</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
-			<ymin>574</ymin>
-			<xmax>314</xmax>
-			<ymax>593</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>window</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>375</xmin>
+			<xmin>379</xmin>
 			<ymin>349</ymin>
-			<xmax>398</xmax>
-			<ymax>501</ymax>
+			<xmax>399</xmax>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>window</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>946</ymin>
+			<xmax>141</xmax>
+			<ymax>1307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>window</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>1336</ymin>
+			<xmax>326</xmax>
+			<ymax>1363</ymax>
 		</bndbox>
 	</object>
 </annotation>
