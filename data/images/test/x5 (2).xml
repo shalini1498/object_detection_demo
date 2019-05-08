@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>x5 (2).jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\for train\train\x5 (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>514</width>
+		<height>437</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>81</ymin>
+			<xmax>392</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>
