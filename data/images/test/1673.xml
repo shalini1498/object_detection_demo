@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>1673.png</filename>
-	<path>C:\Users\karunya\Desktop\train\1673.png</path>
+	<path>C:\Users\MURUGAS\Desktop\1266 trained\train\1673.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,18 +21,6 @@
 			<ymin>70</ymin>
 			<xmax>139</xmax>
 			<ymax>113</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>door</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>402</xmin>
-			<ymin>363</ymin>
-			<xmax>438</xmax>
-			<ymax>401</ymax>
 		</bndbox>
 	</object>
 	<object>
