@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>single400021 (26).jpg</filename>
+	<path>C:\Users\ArunOnedata\Desktop\All_Images\190_Labbled_Images\door\train\single400021 (26).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2667</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>362</ymin>
+			<xmax>758</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1357</xmin>
+			<ymin>610</ymin>
+			<xmax>1439</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>
