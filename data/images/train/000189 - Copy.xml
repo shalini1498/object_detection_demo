@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>000189 - Copy.jpg</filename>
-	<path>C:\Users\MURUGAS\Desktop\ggg\Floorplan_img_03\rename\train\000189 - Copy.jpg</path>
+	<path>C:\Users\MURUGAS\Desktop\1266 trained\train\000189 - Copy.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,6 +45,42 @@
 			<ymin>301</ymin>
 			<xmax>1287</xmax>
 			<ymax>431</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>1120</ymin>
+			<xmax>531</xmax>
+			<ymax>1195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>787</ymin>
+			<xmax>448</xmax>
+			<ymax>866</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>916</ymin>
+			<xmax>518</xmax>
+			<ymax>991</ymax>
 		</bndbox>
 	</object>
 </annotation>
