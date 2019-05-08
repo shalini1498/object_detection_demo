@@ -1,0 +1,26 @@
+<annotation>
+	<folder>door images</folder>
+	<filename>151388_Legend_Component_Door_w_Wall_in_Plan.png</filename>
+	<path>C:\Users\MURUGAS\Desktop\blueprint\door images\151388_Legend_Component_Door_w_Wall_in_Plan.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>833</width>
+		<height>292</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>70</ymin>
+			<xmax>612</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>
