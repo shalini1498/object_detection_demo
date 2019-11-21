@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bmw</folder>
+	<filename>DSCN2615.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\f\car\bmw\DSCN2615.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bmw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>336</ymin>
+			<xmax>542</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bmw</folder>
+	<filename>349368_back-of-car-png.png</filename>
+	<path>C:\Users\MURUGAS\Desktop\f\car\bmw\349368_back-of-car-png.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bmw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>249</ymin>
+			<xmax>1721</xmax>
+			<ymax>1275</ymax>
+		</bndbox>
+	</object>
+</annotation>

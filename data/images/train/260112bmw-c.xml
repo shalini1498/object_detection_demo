@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bmw</folder>
+	<filename>260112bmw-c.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\f\car\bmw\260112bmw-c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bmw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>21</ymin>
+			<xmax>502</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

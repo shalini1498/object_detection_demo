@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bmw</folder>
+	<filename>BMW-iconic-glow-grille-e1566577892487-610x415.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\f\car\bmw\BMW-iconic-glow-grille-e1566577892487-610x415.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>610</width>
+		<height>415</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bmw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>539</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

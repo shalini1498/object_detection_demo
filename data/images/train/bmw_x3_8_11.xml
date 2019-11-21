@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bmw</folder>
+	<filename>bmw_x3_8_11.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\f\car\bmw\bmw_x3_8_11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1100</width>
+		<height>870</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bmw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>91</ymin>
+			<xmax>941</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bmw</folder>
+	<filename>f10-bmw-m5.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\f\car\bmw\f10-bmw-m5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>889</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bmw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>17</ymin>
+			<xmax>741</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

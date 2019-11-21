@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bmw</folder>
+	<filename>2019-bmw-x4-m40i.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\f\car\bmw\2019-bmw-x4-m40i.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bmw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>80</ymin>
+			<xmax>1485</xmax>
+			<ymax>954</ymax>
+		</bndbox>
+	</object>
+</annotation>
