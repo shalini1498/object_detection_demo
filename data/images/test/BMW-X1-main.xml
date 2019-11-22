@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bmw</folder>
+	<filename>BMW-X1-main.jpg</filename>
+	<path>C:\Users\maragathamani\Desktop\images\bmw\BMW-X1-main.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bmw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>6</ymin>
+			<xmax>362</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

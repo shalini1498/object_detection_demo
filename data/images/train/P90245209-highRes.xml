@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bmw</folder>
+	<filename>P90245209-highRes.jpg</filename>
+	<path>C:\Users\maragathamani\Desktop\images\bmw\P90245209-highRes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bmw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>179</ymin>
+			<xmax>931</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>
