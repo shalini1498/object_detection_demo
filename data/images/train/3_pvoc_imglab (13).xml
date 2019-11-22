@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>images (1).jfif</filename>
+    <path>images/images (1).jfif</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>300</width>
+        <height>168</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>audi</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>20.0000057220459</xmin>
+            <ymin>60</ymin>
+            <xmax>286.0000305175781</xmax>
+            <ymax>139</ymax>
+        </bndbox>
+    </object>
+</annotation>

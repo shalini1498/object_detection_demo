@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>gallery_used-car-carlist-audi-a6-tfsi-hybrid-sedan-malaysia_6731055_p0eKl5iannvqkw2uNvhgJq.jpg</filename>
+    <path>images/gallery_used-car-carlist-audi-a6-tfsi-hybrid-sedan-malaysia_6731055_p0eKl5iannvqkw2uNvhgJq.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>860</width>
+        <height>645</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>audi</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>38</xmin>
+            <ymin>182</ymin>
+            <xmax>806</xmax>
+            <ymax>582</ymax>
+        </bndbox>
+    </object>
+</annotation>
