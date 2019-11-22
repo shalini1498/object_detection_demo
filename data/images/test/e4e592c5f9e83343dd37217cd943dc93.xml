@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>e4e592c5f9e83343dd37217cd943dc93.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\f\training\object_detection_demo\data\images\test\e4e592c5f9e83343dd37217cd943dc93.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>audi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>65</ymin>
+			<xmax>489</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>
