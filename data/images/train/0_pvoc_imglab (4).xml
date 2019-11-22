@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>256216469.jpg</filename>
+    <path>images/256216469.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>745</width>
+        <height>495</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>bmw</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>141</xmin>
+            <ymin>149.99998474121094</ymin>
+            <xmax>692.9999389648438</xmax>
+            <ymax>395.99993896484375</ymax>
+        </bndbox>
+    </object>
+</annotation>
