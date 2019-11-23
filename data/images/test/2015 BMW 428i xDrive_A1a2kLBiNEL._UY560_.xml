@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>bmw</folder>
+  <filename>2015 BMW 428i xDrive_A1a2kLBiNEL._UY560_</filename>
+  <path>C:\Users\maragathamani\Desktop\object_\bmw\2015 BMW 428i xDrive_A1a2kLBiNEL._UY560_.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>0</width>
+    <height>0</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bmw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>8</ymin>
+      <xmax>1391</xmax>
+      <ymax>514</ymax>
+    </bndbox>
+  </object>
+</annotation>
