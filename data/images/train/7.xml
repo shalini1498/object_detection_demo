@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>7.png</filename>
+	<path>C:\Users\MURUGAS\Desktop\f\training\object_detection_demo\data\images\test\7.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bmw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>18</ymin>
+			<xmax>923</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>
