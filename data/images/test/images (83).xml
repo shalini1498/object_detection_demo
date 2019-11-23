@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>bmw new</folder>
+  <filename>images (83)</filename>
+  <path>C:\Users\mohanraj\Desktop\images\bmw new\images (83).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>audi</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>66</xmin>
+      <ymin>187</ymin>
+      <xmax>572</xmax>
+      <ymax>409</ymax>
+    </bndbox>
+  </object>
+</annotation>

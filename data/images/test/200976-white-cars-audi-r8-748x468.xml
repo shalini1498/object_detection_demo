@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>bmw new</folder>
+  <filename>200976-white-cars-audi-r8-748x468</filename>
+  <path>C:\Users\mohanraj\Desktop\images\bmw new\200976-white-cars-audi-r8-748x468.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>748</width>
+    <height>468</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>audi</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>246</xmin>
+      <ymin>309</ymin>
+      <xmax>642</xmax>
+      <ymax>453</ymax>
+    </bndbox>
+  </object>
+</annotation>

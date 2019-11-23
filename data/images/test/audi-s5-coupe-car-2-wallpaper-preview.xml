@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>bmw new</folder>
+  <filename>audi-s5-coupe-car-2-wallpaper-preview</filename>
+  <path>C:\Users\mohanraj\Desktop\images\bmw new\audi-s5-coupe-car-2-wallpaper-preview.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>728</width>
+    <height>536</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>audi</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>12</xmin>
+      <ymin>119</ymin>
+      <xmax>715</xmax>
+      <ymax>441</ymax>
+    </bndbox>
+  </object>
+</annotation>
