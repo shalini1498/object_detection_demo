@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>bmw new</folder>
+  <filename>images (38)</filename>
+  <path>C:\Users\maragathamani\Desktop\images\bmw new\images (38).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>372</width>
+    <height>135</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bmw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>11</xmin>
+      <ymin>7</ymin>
+      <xmax>355</xmax>
+      <ymax>114</ymax>
+    </bndbox>
+  </object>
+</annotation>
