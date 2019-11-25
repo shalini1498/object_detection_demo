@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>volvo</folder>
+  <filename>image61</filename>
+  <path>C:\Users\maragathamani\Desktop\images\volvo\image61.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>600</width>
+    <height>450</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>volvo</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>33</xmin>
+      <ymin>2</ymin>
+      <xmax>597</xmax>
+      <ymax>450</ymax>
+    </bndbox>
+  </object>
+</annotation>
