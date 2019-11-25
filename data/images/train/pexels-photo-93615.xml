@@ -1,26 +1,26 @@
 <annotation verified="no">
   <folder>ex</folder>
-  <filename>2</filename>
-  <path>C:\Users\maragathamani\Desktop\ex\2.jpg</path>
+  <filename>pexels-photo-93615</filename>
+  <path>C:\Users\maragathamani\Desktop\ex\pexels-photo-93615.jpeg</path>
   <source>
     <database>Unknown</database>
   </source>
   <size>
-    <width>600</width>
-    <height>450</height>
+    <width>2520</width>
+    <height>1418</height>
     <depth>3</depth>
   </size>
   <segmented>0</segmented>
   <object>
-    <name>volvo</name>
+    <name>bmw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <Difficult>0</Difficult>
     <bndbox>
-      <xmin>2</xmin>
-      <ymin>10</ymin>
-      <xmax>598</xmax>
-      <ymax>393</ymax>
+      <xmin>325</xmin>
+      <ymin>91</ymin>
+      <xmax>2171</xmax>
+      <ymax>1347</ymax>
     </bndbox>
   </object>
 </annotation>

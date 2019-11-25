@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>ex</folder>
+  <filename>pexels-photo-365811</filename>
+  <path>C:\Users\maragathamani\Desktop\ex\pexels-photo-365811.jpeg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2235</width>
+    <height>1500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bmw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>4</xmin>
+      <ymin>159</ymin>
+      <xmax>2138</xmax>
+      <ymax>1362</ymax>
+    </bndbox>
+  </object>
+</annotation>
