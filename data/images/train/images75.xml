@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <folder>acura</folder>
+  <filename>images75</filename>
+  <path>C:\Users\mohanraj\Desktop\acura\images75.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>292</width>
+    <height>220</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>acura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>4</xmin>
+      <ymin>27</ymin>
+      <xmax>288</xmax>
+      <ymax>211</ymax>
+    </bndbox>
+  </object>
+</annotation>
