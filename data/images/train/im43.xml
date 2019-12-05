@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>train</folder>
+  <filename>im43</filename>
+  <path>C:\Users\maragathamani\Desktop\train\im43.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>864</width>
+    <height>2064</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Agility-Depuy</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>288</xmin>
+      <ymin>608</ymin>
+      <xmax>792</xmax>
+      <ymax>1216</ymax>
+    </bndbox>
+  </object>
+</annotation>
