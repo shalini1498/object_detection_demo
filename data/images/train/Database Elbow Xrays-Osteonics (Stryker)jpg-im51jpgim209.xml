@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>train</folder>
+  <filename>Database Elbow Xrays-Osteonics (Stryker)jpg-im51jpgim209</filename>
+  <path>C:\Users\mohanraj\Desktop\implant\train\Database Elbow Xrays-Osteonics (Stryker)jpg-im51jpgim209.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1792</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Elbow - Osteonics - Stryker</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>4</xmin>
+      <ymin>2</ymin>
+      <xmax>461</xmax>
+      <ymax>1525</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Elbow - Osteonics - Stryker</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>368</xmin>
+      <ymin>1227</ymin>
+      <xmax>720</xmax>
+      <ymax>1792</ymax>
+    </bndbox>
+  </object>
+</annotation>

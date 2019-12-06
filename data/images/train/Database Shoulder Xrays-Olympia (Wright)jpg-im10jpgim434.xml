@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>maragatham</folder>
+  <filename>Database Shoulder Xrays-Olympia (Wright)jpg-im10jpgim434</filename>
+  <path>C:\Users\maragathamani\Desktop\Xray Implant files\maragatham\Database Shoulder Xrays-Olympia (Wright)jpg-im10jpgim434.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1108</width>
+    <height>2095</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Shoulder-Olympia-Wright</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>561</xmin>
+      <ymin>1</ymin>
+      <xmax>998</xmax>
+      <ymax>784</ymax>
+    </bndbox>
+  </object>
+</annotation>

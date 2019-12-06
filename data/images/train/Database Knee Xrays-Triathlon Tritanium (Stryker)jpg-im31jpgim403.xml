@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>maragatham</folder>
+  <filename>Database Knee Xrays-Triathlon Tritanium (Stryker)jpg-im31jpgim403</filename>
+  <path>C:\Users\maragathamani\Desktop\Xray Implant files\maragatham\Database Knee Xrays-Triathlon Tritanium (Stryker)jpg-im31jpgim403.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1792</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Knee-TriathlonTritanium-Stryker</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>94</xmin>
+      <ymin>731</ymin>
+      <xmax>470</xmax>
+      <ymax>1211</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Knee-TriathlonTritanium-Stryker</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>601</xmin>
+      <ymin>1224</ymin>
+      <xmax>720</xmax>
+      <ymax>1444</ymax>
+    </bndbox>
+  </object>
+</annotation>

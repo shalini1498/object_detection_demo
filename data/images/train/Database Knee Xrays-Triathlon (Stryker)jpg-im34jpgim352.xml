@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>maragatham</folder>
+  <filename>Database Knee Xrays-Triathlon (Stryker)jpg-im34jpgim352</filename>
+  <path>C:\Users\maragathamani\Desktop\Xray Implant files\maragatham\Database Knee Xrays-Triathlon (Stryker)jpg-im34jpgim352.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1792</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Knee-Triathlon-Stryker</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>36</xmin>
+      <ymin>620</ymin>
+      <xmax>503</xmax>
+      <ymax>1007</ymax>
+    </bndbox>
+  </object>
+</annotation>

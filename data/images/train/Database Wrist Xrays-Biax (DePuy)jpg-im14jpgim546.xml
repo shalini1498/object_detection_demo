@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>maragatham</folder>
+  <filename>Database Wrist Xrays-Biax (DePuy)jpg-im14jpgim546</filename>
+  <path>C:\Users\maragathamani\Desktop\Xray Implant files\maragatham\Database Wrist Xrays-Biax (DePuy)jpg-im14jpgim546.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1060</width>
+    <height>1194</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Wrist-Biax-DePuuy</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>276</xmin>
+      <ymin>614</ymin>
+      <xmax>593</xmax>
+      <ymax>1194</ymax>
+    </bndbox>
+  </object>
+</annotation>

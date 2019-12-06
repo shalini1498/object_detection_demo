@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>train</folder>
+  <filename>Database Hip Xrays-Bias (Zimmer)jpg-im10jpgim272</filename>
+  <path>C:\Users\mohanraj\Desktop\implant\train\Database Hip Xrays-Bias (Zimmer)jpg-im10jpgim272.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1308</width>
+    <height>2489</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hip - Bias - Zimmer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>384</xmin>
+      <ymin>128</ymin>
+      <xmax>855</xmax>
+      <ymax>1853</ymax>
+    </bndbox>
+  </object>
+</annotation>

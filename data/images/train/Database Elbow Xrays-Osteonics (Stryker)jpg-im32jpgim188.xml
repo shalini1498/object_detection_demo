@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>train</folder>
+  <filename>Database Elbow Xrays-Osteonics (Stryker)jpg-im32jpgim188</filename>
+  <path>C:\Users\mohanraj\Desktop\implant\train\Database Elbow Xrays-Osteonics (Stryker)jpg-im32jpgim188.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1792</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Elbow - Osteonics - Stryker</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>439</ymin>
+      <xmax>715</xmax>
+      <ymax>1013</ymax>
+    </bndbox>
+  </object>
+</annotation>

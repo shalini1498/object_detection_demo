@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>maragatham</folder>
+  <filename>Database Shoulder Xrays-Reverse (DJO)jpg-im8jpgim538</filename>
+  <path>C:\Users\maragathamani\Desktop\Xray Implant files\maragatham\Database Shoulder Xrays-Reverse (DJO)jpg-im8jpgim538.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1792</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Shoulder-Reverse-DJO</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>222</ymin>
+      <xmax>531</xmax>
+      <ymax>1364</ymax>
+    </bndbox>
+  </object>
+</annotation>

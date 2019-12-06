@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>maragatham</folder>
+  <filename>Database Hip Xrays-Bias (Zimmer)jpg-im42jpgim307</filename>
+  <path>C:\Users\maragathamani\Desktop\Xray Implant files\maragatham\Database Hip Xrays-Bias (Zimmer)jpg-im42jpgim307.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1308</width>
+    <height>2489</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hip-Bias-Zimmer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>339</xmin>
+      <ymin>359</ymin>
+      <xmax>824</xmax>
+      <ymax>2067</ymax>
+    </bndbox>
+  </object>
+</annotation>
