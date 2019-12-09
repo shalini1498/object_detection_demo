@@ -1,7 +1,7 @@
-<annotation verified="no">
-  <folder>train</folder>
-  <filename>Database Hip Xrays-Bias (Zimmer)jpg-im1jpgim271</filename>
-  <path>C:\Users\mohanraj\Desktop\implant\train\Database Hip Xrays-Bias (Zimmer)jpg-im1jpgim271.jpg</path>
+<annotation verified="yes">
+  <folder>test hip</folder>
+  <filename>Database Hip Xrays-Bias (Zimmer)jpg-im23jpgim286</filename>
+  <path>C:\Users\maragathamani\Desktop\test hip\Database Hip Xrays-Bias (Zimmer)jpg-im23jpgim286.jpg</path>
   <source>
     <database>Unknown</database>
   </source>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <Difficult>0</Difficult>
     <bndbox>
-      <xmin>558</xmin>
-      <ymin>360</ymin>
-      <xmax>1061</xmax>
-      <ymax>2089</ymax>
+      <xmin>400</xmin>
+      <ymin>344</ymin>
+      <xmax>962</xmax>
+      <ymax>2180</ymax>
     </bndbox>
   </object>
 </annotation>
