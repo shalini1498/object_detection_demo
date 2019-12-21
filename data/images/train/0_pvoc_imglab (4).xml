@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>Database Shoulder Xrays-Aequalis (Tornier)jpg-im12jpgim6430.jpg</filename>
+    <path>images/Database Shoulder Xrays-Aequalis (Tornier)jpg-im12jpgim6430.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1108</width>
+        <height>2095</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Shoulder - Aequalis - Tornier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>114</xmin>
+            <ymin>2</ymin>
+            <xmax>920</xmax>
+            <ymax>1358</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>unlabelled</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>664</xmin>
+            <ymin>338</ymin>
+            <xmax>682</xmax>
+            <ymax>340</ymax>
+        </bndbox>
+    </object>
+</annotation>
