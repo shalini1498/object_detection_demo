@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <annotation>
     <folder>images</folder>
-    <filename>Database Shoulder Xrays-Aequalis (Tornier)jpg-im21jpgim6440.jpg</filename>
-    <path>images/Database Shoulder Xrays-Aequalis (Tornier)jpg-im21jpgim6440.jpg</path>
+    <filename>Database Shoulder Xrays-Aequalis Fracture (Tornier)jpg-im24jpgim6551.jpg</filename>
+    <path>images/Database Shoulder Xrays-Aequalis Fracture (Tornier)jpg-im24jpgim6551.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -13,15 +13,63 @@
     </size>
     <segmented>0</segmented>
     <object>
-        <name>Shoulder - Aequalis - Tornier</name>
+        <name>unlabelled</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>114</xmin>
-            <ymin>236</ymin>
-            <xmax>920</xmax>
-            <ymax>1734</ymax>
+            <xmin>542</xmin>
+            <ymin>852</ymin>
+            <xmax>542</xmax>
+            <ymax>852</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>unlabelled</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>530</xmin>
+            <ymin>820</ymin>
+            <xmax>530</xmax>
+            <ymax>820</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>unlabelled</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>540</xmin>
+            <ymin>825</ymin>
+            <xmax>540</xmax>
+            <ymax>825</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>unlabelled</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>533</xmin>
+            <ymin>819</ymin>
+            <xmax>533</xmax>
+            <ymax>819</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Shoulder - AequalisFracture - Tornier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>133</xmin>
+            <ymin>249</ymin>
+            <xmax>940</xmax>
+            <ymax>1866</ymax>
         </bndbox>
     </object>
 </annotation>

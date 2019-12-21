@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <annotation>
     <folder>images</folder>
-    <filename>Database Shoulder Xrays-Aequalis (Tornier)jpg-im23jpgim6442.jpg</filename>
-    <path>images/Database Shoulder Xrays-Aequalis (Tornier)jpg-im23jpgim6442.jpg</path>
+    <filename>Database Shoulder Xrays-Aequalis Fracture (Tornier)jpg-im25jpgim6552.jpg</filename>
+    <path>images/Database Shoulder Xrays-Aequalis Fracture (Tornier)jpg-im25jpgim6552.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -13,63 +13,15 @@
     </size>
     <segmented>0</segmented>
     <object>
-        <name>Shoulder - Aequalis - Tornier</name>
+        <name>Shoulder - AequalisFracture - Tornier</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>180</xmin>
-            <ymin>236</ymin>
-            <xmax>988</xmax>
-            <ymax>1734</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>unlabelled</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>536</xmin>
-            <ymin>1190</ymin>
-            <xmax>536</xmax>
-            <ymax>1190</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>unlabelled</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>522</xmin>
-            <ymin>1150</ymin>
-            <xmax>524</xmax>
-            <ymax>1174</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>unlabelled</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>528</xmin>
-            <ymin>1110</ymin>
-            <xmax>528</xmax>
-            <ymax>1110</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>unlabelled</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>520</xmin>
-            <ymin>1092</ymin>
-            <xmax>520</xmax>
-            <ymax>1092</ymax>
+            <xmin>127</xmin>
+            <ymin>249</ymin>
+            <xmax>946</xmax>
+            <ymax>1866</ymax>
         </bndbox>
     </object>
 </annotation>

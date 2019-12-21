@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <annotation>
     <folder>images</folder>
-    <filename>Database Shoulder Xrays-Aequalis (Tornier)jpg-im36jpgim6456.jpg</filename>
-    <path>images/Database Shoulder Xrays-Aequalis (Tornier)jpg-im36jpgim6456.jpg</path>
+    <filename>Database Shoulder Xrays-Aequalis Fracture (Tornier)jpg-im37jpgim6565.jpg</filename>
+    <path>images/Database Shoulder Xrays-Aequalis Fracture (Tornier)jpg-im37jpgim6565.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -13,15 +13,15 @@
     </size>
     <segmented>0</segmented>
     <object>
-        <name>Shoulder - Aequalis - Tornier</name>
+        <name>Shoulder - AequalisFracture - Tornier</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>116</xmin>
-            <ymin>242</ymin>
-            <xmax>922</xmax>
-            <ymax>1732</ymax>
+            <xmin>148</xmin>
+            <ymin>231</ymin>
+            <xmax>970</xmax>
+            <ymax>1875</ymax>
         </bndbox>
     </object>
 </annotation>
