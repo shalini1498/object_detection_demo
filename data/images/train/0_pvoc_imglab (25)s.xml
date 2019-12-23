@@ -37,7 +37,7 @@
         </bndbox>
     </object>
     <object>
-        <name>Shoulder - Anotomytip- Stryker</name>
+        <name>Shoulder - Anotomytip - Stryker</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <difficult>0</difficult>
