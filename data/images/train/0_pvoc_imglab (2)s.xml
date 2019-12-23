@@ -13,7 +13,7 @@
     </size>
     <segmented>0</segmented>
     <object>
-        <name> Shoulder - Anotomycurve1 - Stryker</name>
+        <name>Shoulder - Anotomycurve1 - Stryker</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <difficult>0</difficult>
@@ -25,7 +25,7 @@
         </bndbox>
     </object>
     <object>
-        <name> Shoulder - Anotomycurve2 - Stryker</name>
+        <name>Shoulder - Anotomycurve2 - Stryker</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <difficult>0</difficult>
@@ -37,7 +37,7 @@
         </bndbox>
     </object>
     <object>
-        <name> Shoulder - Anotomytip - Stryker</name>
+        <name>Shoulder - Anotomytip - Stryker</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <difficult>0</difficult>

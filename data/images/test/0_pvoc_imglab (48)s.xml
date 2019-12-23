@@ -49,18 +49,6 @@
         </bndbox>
     </object>
     <object>
-        <name></name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>346</xmin>
-            <ymin>168</ymin>
-            <xmax>436</xmax>
-            <ymax>404</ymax>
-        </bndbox>
-    </object>
-    <object>
         <name>Shoulder - Anotomyhalfhc - Stryker</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
