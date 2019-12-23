@@ -1,0 +1,100 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>Database Shoulder Xrays-Aequalis (Tornier)jpg-im51jpgim6473.jpg</filename>
+    <path>images/Database Shoulder Xrays-Aequalis (Tornier)jpg-im51jpgim6473.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1108</width>
+        <height>2095</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Shoulder - Aequaliscurve1 - Tornier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>358</xmin>
+            <ymin>166</ymin>
+            <xmax>504</xmax>
+            <ymax>354</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Shoulder - Aequaliscurve2 - Tornier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>208</xmin>
+            <ymin>544</ymin>
+            <xmax>324</xmax>
+            <ymax>760</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Shoulder - AequalisHead - Tornier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>90</ymin>
+            <xmax>400</xmax>
+            <ymax>784</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Shoulder - Aequaliscenter - Tornier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>246</xmin>
+            <ymin>270</ymin>
+            <xmax>708</xmax>
+            <ymax>894</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Shoulder - Aequalistip - Tornier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>870</xmin>
+            <ymin>1714</ymin>
+            <xmax>1098</xmax>
+            <ymax>1878</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Shoulder - Aequalisbottom - Tornier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>552</xmin>
+            <ymin>796</ymin>
+            <xmax>1084</xmax>
+            <ymax>1858</ymax>
+        </bndbox>
+    </object>
+   
+    <object>
+        <name>Shoulder - Aequalishalfhc - Tornier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>122</xmin>
+            <ymin>76</ymin>
+            <xmax>732</xmax>
+            <ymax>814</ymax>
+        </bndbox>
+    </object>
+</annotation>
