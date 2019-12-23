@@ -1,0 +1,87 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>ty01.jpg-im46.jpg</filename>
+    <path>images/ty01.jpg-im46.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>443</width>
+        <height>723</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Shoulder - Anotomyhead - Stryker</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>66</ymin>
+            <xmax>212</xmax>
+            <ymax>288</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Shoulder - Anotomycurve1 - Stryker</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>156</xmin>
+            <ymin>36</ymin>
+            <xmax>264</xmax>
+            <ymax>184</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Shoulder - Anotomycurve2 - Stryker</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3</xmin>
+            <ymin>222</ymin>
+            <xmax>156</xmax>
+            <ymax>358</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Shoulder - Anotomycenter - Stryker</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>68</xmin>
+            <ymin>124</ymin>
+            <xmax>326</xmax>
+            <ymax>382</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Shoulder - Anotomybottom - Stryker</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>180</xmin>
+            <ymin>266</ymin>
+            <xmax>436</xmax>
+            <ymax>636</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Shoulder - Anotomyhalfhc - Stryker</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>18</xmin>
+            <ymin>50</ymin>
+            <xmax>318</xmax>
+            <ymax>358</ymax>
+        </bndbox>
+    </object>
+</annotation>
