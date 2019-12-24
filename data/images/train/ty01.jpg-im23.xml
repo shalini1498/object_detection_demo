@@ -1,0 +1,38 @@
+<annotation>
+	<folder>anatomy</folder>
+	<filename>ty01.jpg-im23.jpg</filename>
+	<path>C:\Users\MURUGAS\Desktop\implant annotation\anatomy\ty01.jpg-im23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>443</width>
+		<height>723</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Shoulder - Anotomyhead - Stryker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>110</ymin>
+			<xmax>392</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shoulder - Anotomytail - Stryker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>143</ymin>
+			<xmax>323</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>
