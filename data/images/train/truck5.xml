@@ -1,0 +1,26 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>truck5.png</filename>
+	<path>C:\Users\ONEDATA-SUDHARSHAN\Pictures\truck\truck5.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>601</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>27</ymin>
+			<xmax>489</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>
