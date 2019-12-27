@@ -1,14 +1,14 @@
 <annotation>
-	<folder>train</folder>
-	<filename>singledoor5600109.jpg</filename>
-	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\new set 03.05.2019\train\singledoor5600109.jpg</path>
+	<folder>Train1</folder>
+	<filename>rgb_4439.png</filename>
+	<path>C:\Users\ArunOnedata\Desktop\windows_v1.8.0\Train1\rgb_4439.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3508</width>
-		<height>2480</height>
-		<depth>3</depth>
+		<width>1754</width>
+		<height>1240</height>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1389</xmin>
-			<ymin>1865</ymin>
-			<xmax>1530</xmax>
-			<ymax>1993</ymax>
+			<xmin>825</xmin>
+			<ymin>262</ymin>
+			<xmax>892</xmax>
+			<ymax>320</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1387</xmin>
-			<ymin>1863</ymin>
-			<xmax>1528</xmax>
-			<ymax>1991</ymax>
+			<xmin>894</xmin>
+			<ymin>186</ymin>
+			<xmax>961</xmax>
+			<ymax>244</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1582</xmin>
-			<ymin>890</ymin>
-			<xmax>1723</xmax>
-			<ymax>1018</ymax>
+			<xmin>969</xmin>
+			<ymin>304</ymin>
+			<xmax>1036</xmax>
+			<ymax>362</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2125</xmin>
-			<ymin>671</ymin>
-			<xmax>2251</xmax>
-			<ymax>770</ymax>
+			<xmin>827</xmin>
+			<ymin>375</ymin>
+			<xmax>894</xmax>
+			<ymax>433</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1786</xmin>
-			<ymin>1377</ymin>
-			<xmax>1927</xmax>
-			<ymax>1505</ymax>
+			<xmin>823</xmin>
+			<ymin>530</ymin>
+			<xmax>890</xmax>
+			<ymax>588</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1324</xmin>
-			<ymin>903</ymin>
-			<xmax>1557</xmax>
-			<ymax>1015</ymax>
+			<xmin>887</xmin>
+			<ymin>906</ymin>
+			<xmax>955</xmax>
+			<ymax>978</ymax>
 		</bndbox>
 	</object>
 </annotation>
