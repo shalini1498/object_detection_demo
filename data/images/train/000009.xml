@@ -1,0 +1,26 @@
+<annotation>
+	<folder>injured</folder>
+	<filename>000009.jpg</filename>
+	<path>C:\Users\Admin\Desktop\injured\000009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1820</width>
+		<height>2730</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>injured</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>911</ymin>
+			<xmax>1620</xmax>
+			<ymax>2211</ymax>
+		</bndbox>
+	</object>
+</annotation>
