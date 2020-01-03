@@ -1,13 +1,13 @@
 <annotation>
 	<folder>ac</folder>
-	<filename>1 (8).jpg</filename>
-	<path>C:\Users\Admin\Desktop\ac\1 (8).jpg</path>
+	<filename>1 (9).jpg</filename>
+	<path>C:\Users\Admin\Desktop\ac\1 (9).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>735</width>
-		<height>384</height>
+		<width>1066</width>
+		<height>799</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>134</xmin>
-			<ymin>128</ymin>
-			<xmax>481</xmax>
-			<ymax>321</ymax>
+			<xmin>144</xmin>
+			<ymin>4</ymin>
+			<xmax>947</xmax>
+			<ymax>791</ymax>
 		</bndbox>
 	</object>
 </annotation>
