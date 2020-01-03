@@ -1,0 +1,26 @@
+<annotation>
+	<folder>me</folder>
+	<filename>2 (22).jpg</filename>
+	<path>C:\Users\Admin\Desktop\me\2 (22).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2450</width>
+		<height>1705</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melanoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>108</ymin>
+			<xmax>2351</xmax>
+			<ymax>1639</ymax>
+		</bndbox>
+	</object>
+</annotation>
