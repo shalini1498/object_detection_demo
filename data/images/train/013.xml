@@ -1,0 +1,26 @@
+<annotation>
+	<folder>me</folder>
+	<filename>013.jpg</filename>
+	<path>C:\Users\Admin\Desktop\me\013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5100</width>
+		<height>3824</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melanoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1639</xmin>
+			<ymin>991</ymin>
+			<xmax>3860</xmax>
+			<ymax>2937</ymax>
+		</bndbox>
+	</object>
+</annotation>

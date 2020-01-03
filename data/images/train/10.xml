@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ac</folder>
+	<filename>10.jpg</filename>
+	<path>C:\Users\Admin\Desktop\ac\10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2056</width>
+		<height>1459</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>acene</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>675</xmin>
+			<ymin>171</ymin>
+			<xmax>1535</xmax>
+			<ymax>1343</ymax>
+		</bndbox>
+	</object>
+</annotation>

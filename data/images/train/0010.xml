@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fu</folder>
+	<filename>0010.jpg</filename>
+	<path>C:\Users\Admin\Desktop\fu\0010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>footulcer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>745</ymin>
+			<xmax>2252</xmax>
+			<ymax>2469</ymax>
+		</bndbox>
+	</object>
+</annotation>
