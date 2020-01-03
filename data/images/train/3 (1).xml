@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fu</folder>
+	<filename>000001.jpg</filename>
+	<path>C:\Users\Admin\Desktop\fu\000001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foot ulcer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>106</ymin>
+			<xmax>525</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>
