@@ -1,0 +1,26 @@
+<annotation>
+	<folder>acene images</folder>
+	<filename>2 (17).jpg</filename>
+	<path>C:\Users\Admin\Desktop\img\acene images\2 (17).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>605</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>acene</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>347</ymin>
+			<xmax>726</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>
