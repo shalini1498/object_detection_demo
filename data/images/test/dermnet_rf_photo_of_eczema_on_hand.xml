@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dd</folder>
+	<filename>dermnet_rf_photo_of_eczema_on_hand.jpg</filename>
+	<path>C:\Users\Admin\Desktop\dd\dermnet_rf_photo_of_eczema_on_hand.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>89</ymin>
+			<xmax>343</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

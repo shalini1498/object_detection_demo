@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dd</folder>
+	<filename>_63464337_ppk.jpg</filename>
+	<path>C:\Users\Admin\Desktop\dd\_63464337_ppk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>410</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>13</ymin>
+			<xmax>337</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>
