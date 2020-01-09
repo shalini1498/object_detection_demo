@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpeg images</folder>
+	<filename>95. hand-finger-direction-palm-gesture-arm-help-greetings-guide-along-thumb-waving-greet-agree-agreement-sense-shaking-votes-hand-shaking-guiding-participate-get-involved-1095727.jpg</filename>
+	<path>E:\jpeg images\95. hand-finger-direction-palm-gesture-arm-help-greetings-guide-along-thumb-waving-greet-agree-agreement-sense-shaking-votes-hand-shaking-guiding-participate-get-involved-1095727.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1304</xmin>
+			<ymin>732</ymin>
+			<xmax>3780</xmax>
+			<ymax>2624</ymax>
+		</bndbox>
+	</object>
+</annotation>

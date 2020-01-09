@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpeg images</folder>
+	<filename>27. hand-in-hand-palm-human-light-hand-hand-holding-1044883.jpg</filename>
+	<path>E:\jpeg images\27. hand-in-hand-palm-human-light-hand-hand-holding-1044883.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>619</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>212</ymin>
+			<xmax>770</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

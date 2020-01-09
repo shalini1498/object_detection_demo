@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpeg images</folder>
+	<filename>1548514550020.jpg</filename>
+	<path>E:\jpeg images\1548514550020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>243</width>
+		<height>212</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>1</ymin>
+			<xmax>230</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpeg images</folder>
+	<filename>17. morbus_dupuytren_fcm.jpg</filename>
+	<path>E:\jpeg images\17. morbus_dupuytren_fcm.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>81</ymin>
+			<xmax>2503</xmax>
+			<ymax>1920</ymax>
+		</bndbox>
+	</object>
+</annotation>

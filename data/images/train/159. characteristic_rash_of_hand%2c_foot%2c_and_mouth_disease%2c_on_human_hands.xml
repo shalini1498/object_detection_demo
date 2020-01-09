@@ -1,0 +1,38 @@
+<annotation>
+	<folder>jpeg images</folder>
+	<filename>159. characteristic_rash_of_hand%2c_foot%2c_and_mouth_disease%2c_on_human_hands.jpg</filename>
+	<path>E:\jpeg images\159. characteristic_rash_of_hand%2c_foot%2c_and_mouth_disease%2c_on_human_hands.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4252</width>
+		<height>2607</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>100</ymin>
+			<xmax>2060</xmax>
+			<ymax>2362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2110</xmin>
+			<ymin>94</ymin>
+			<xmax>4241</xmax>
+			<ymax>2456</ymax>
+		</bndbox>
+	</object>
+</annotation>

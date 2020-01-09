@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpeg images</folder>
+	<filename>37. showing-receiving-hand-begging-palm-up-palm-1921036.png</filename>
+	<path>E:\jpeg images\37. showing-receiving-hand-begging-palm-up-palm-1921036.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>185</ymin>
+			<xmax>922</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>

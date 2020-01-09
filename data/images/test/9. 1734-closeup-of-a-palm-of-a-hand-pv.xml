@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpeg images</folder>
+	<filename>9. 1734-closeup-of-a-palm-of-a-hand-pv.jpg</filename>
+	<path>E:\jpeg images\9. 1734-closeup-of-a-palm-of-a-hand-pv.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>21</ymin>
+			<xmax>465</xmax>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+</annotation>
