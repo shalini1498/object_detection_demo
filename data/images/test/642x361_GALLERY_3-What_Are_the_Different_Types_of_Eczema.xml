@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dd</folder>
+	<filename>642x361_GALLERY_3-What_Are_the_Different_Types_of_Eczema.jpg</filename>
+	<path>C:\Users\Admin\Desktop\dd\642x361_GALLERY_3-What_Are_the_Different_Types_of_Eczema.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>642</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>27</ymin>
+			<xmax>490</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

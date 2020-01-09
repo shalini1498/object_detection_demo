@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dd</folder>
+	<filename>contact-dermatitis.jpg</filename>
+	<path>C:\Users\Admin\Desktop\dd\contact-dermatitis.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>725</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>32</ymin>
+			<xmax>385</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

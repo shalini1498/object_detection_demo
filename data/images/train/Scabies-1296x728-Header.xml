@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dd</folder>
+	<filename>Scabies-1296x728-Header.jpg</filename>
+	<path>C:\Users\Admin\Desktop\dd\Scabies-1296x728-Header.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1155</width>
+		<height>648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>82</ymin>
+			<xmax>1041</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+</annotation>
