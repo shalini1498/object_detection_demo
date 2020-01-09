@@ -1,0 +1,26 @@
+<annotation>
+	<folder>diseased hand images</folder>
+	<filename>12 (194).jpg</filename>
+	<path>C:\Users\Admin\Desktop\diseased hand images\12 (194).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>196</ymin>
+			<xmax>826</xmax>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+</annotation>
