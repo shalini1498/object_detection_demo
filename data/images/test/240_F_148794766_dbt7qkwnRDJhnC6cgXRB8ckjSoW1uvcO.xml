@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dd</folder>
+	<filename>240_F_148794766_dbt7qkwnRDJhnC6cgXRB8ckjSoW1uvcO.jpg</filename>
+	<path>C:\Users\Admin\Desktop\dd\240_F_148794766_dbt7qkwnRDJhnC6cgXRB8ckjSoW1uvcO.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>359</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>90</ymin>
+			<xmax>227</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>
