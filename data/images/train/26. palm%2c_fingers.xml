@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nrmal hand images</folder>
+	<filename>26. palm%2c_fingers.jpg</filename>
+	<path>D:\nrmal hand images\26. palm%2c_fingers.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>5760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non-diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>1143</ymin>
+			<xmax>3415</xmax>
+			<ymax>4452</ymax>
+		</bndbox>
+	</object>
+</annotation>

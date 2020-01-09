@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nrmal hand images</folder>
+	<filename>33. receiving-hands-1920865_960_720.png</filename>
+	<path>D:\nrmal hand images\33. receiving-hands-1920865_960_720.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non-diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>60</ymin>
+			<xmax>781</xmax>
+			<ymax>691</ymax>
+		</bndbox>
+	</object>
+</annotation>

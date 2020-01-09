@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nrmal hand images</folder>
+	<filename>7. bleaching-young-palm-hand-palm-reading-finger-1590165.jpg</filename>
+	<path>D:\nrmal hand images\7. bleaching-young-palm-hand-palm-reading-finger-1590165.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non-diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>14</ymin>
+			<xmax>759</xmax>
+			<ymax>652</ymax>
+		</bndbox>
+	</object>
+</annotation>

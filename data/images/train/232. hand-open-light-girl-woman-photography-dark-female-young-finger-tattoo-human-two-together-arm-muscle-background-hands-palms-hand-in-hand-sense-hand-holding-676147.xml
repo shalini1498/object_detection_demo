@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nrmal hand images</folder>
+	<filename>232. hand-open-light-girl-woman-photography-dark-female-young-finger-tattoo-human-two-together-arm-muscle-background-hands-palms-hand-in-hand-sense-hand-holding-676147.jpg</filename>
+	<path>D:\nrmal hand images\232. hand-open-light-girl-woman-photography-dark-female-young-finger-tattoo-human-two-together-arm-muscle-background-hands-palms-hand-in-hand-sense-hand-holding-676147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4806</width>
+		<height>3271</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non-diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1020</xmin>
+			<ymin>895</ymin>
+			<xmax>3745</xmax>
+			<ymax>2190</ymax>
+		</bndbox>
+	</object>
+</annotation>

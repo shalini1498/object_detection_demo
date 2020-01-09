@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nrmal hand images</folder>
+	<filename>21. the-palm-of-your-hand-2704020_960_720.jpg</filename>
+	<path>D:\nrmal hand images\21. the-palm-of-your-hand-2704020_960_720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non-diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>57</ymin>
+			<xmax>906</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

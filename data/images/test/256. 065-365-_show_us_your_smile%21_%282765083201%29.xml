@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nrmal hand images</folder>
+	<filename>256. 065-365-_show_us_your_smile%21_%282765083201%29.jpg</filename>
+	<path>D:\nrmal hand images\256. 065-365-_show_us_your_smile%21_%282765083201%29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>1998</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non-diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1160</xmin>
+			<ymin>55</ymin>
+			<xmax>2820</xmax>
+			<ymax>1864</ymax>
+		</bndbox>
+	</object>
+</annotation>

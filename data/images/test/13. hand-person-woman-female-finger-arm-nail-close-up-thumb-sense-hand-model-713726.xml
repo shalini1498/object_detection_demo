@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nrmal hand images</folder>
+	<filename>13. hand-person-woman-female-finger-arm-nail-close-up-thumb-sense-hand-model-713726.jpg</filename>
+	<path>D:\nrmal hand images\13. hand-person-woman-female-finger-arm-nail-close-up-thumb-sense-hand-model-713726.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non-diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>811</xmin>
+			<ymin>202</ymin>
+			<xmax>5005</xmax>
+			<ymax>3307</ymax>
+		</bndbox>
+	</object>
+</annotation>

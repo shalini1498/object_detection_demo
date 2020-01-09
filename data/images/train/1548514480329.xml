@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nrmal hand images</folder>
+	<filename>1548514480329.jpg</filename>
+	<path>D:\nrmal hand images\1548514480329.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>374</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non-diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>2</ymin>
+			<xmax>322</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>
