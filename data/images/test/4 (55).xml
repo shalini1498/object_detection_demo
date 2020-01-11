@@ -1,0 +1,38 @@
+<annotation>
+	<folder>vitiligo</folder>
+	<filename>4 (55).jpg</filename>
+	<path>C:\Users\Admin\Desktop\vitiligo\4 (55).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vitiligo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>25</ymin>
+			<xmax>88</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vitiligo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>20</ymin>
+			<xmax>184</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>
